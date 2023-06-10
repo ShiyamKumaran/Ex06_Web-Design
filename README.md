@@ -67,7 +67,28 @@ Click me to Find Grade Result of a Student
 ```
 
 # OUTPUT
-![Screenshot 2023-06-11 011431](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/003f74df-71af-491e-9fe9-7382c8112001)
+![Screenshot 2023-06-11 011242](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/d5bc2b36-5630-462d-994c-89d584789461)
+![Screenshot 2023-06-11 011431](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/bd8bb1cb-54f6-4476-ac19-e4d01498bf4a)
+![Screenshot 2023-06-11 011508](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/9154778a-9505-4617-9929-05aad09239e1)
+![Screenshot 2023-06-11 011554](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/d980011f-4990-40f7-bc2c-0d840dcaaf93)
+![Screenshot 2023-06-11 011624](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/7f5d4bd2-c721-4a6c-b8ac-7d8a69cb9f4f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,4 +97,5 @@ Click me to Find Grade Result of a Student
 
 
 ## RESULT
+
   Student result using JavaScript is created successfully.
