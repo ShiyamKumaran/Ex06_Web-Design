@@ -67,7 +67,9 @@ Click me to Find Grade Result of a Student
 ```
 
 # OUTPUT
-![Screenshot 2023-05-28 144836](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/64a612d0-8b30-4052-bbd8-5ace25786c29)
+![Screenshot 2023-06-11 011431](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/003f74df-71af-491e-9fe9-7382c8112001)
+
+
 
 
 
