@@ -71,7 +71,8 @@ Click me to Find Grade Result of a Student
 ![Screenshot 2023-06-11 011431](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/bd8bb1cb-54f6-4476-ac19-e4d01498bf4a)
 ![Screenshot 2023-06-11 011508](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/9154778a-9505-4617-9929-05aad09239e1)
 ![Screenshot 2023-06-11 011554](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/d980011f-4990-40f7-bc2c-0d840dcaaf93)
-![Screenshot 2023-06-11 011624](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/7f5d4bd2-c721-4a6c-b8ac-7d8a69cb9f4f)
+![Screenshot 2023-06-11 044216](https://github.com/ShiyamKumaran/Ex06_Web-Design/assets/127816458/4f0008ce-0563-4dbf-af73-c3b766ca6d07)
+
 
 
 
